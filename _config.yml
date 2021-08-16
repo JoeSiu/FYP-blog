@@ -105,5 +105,4 @@ exclude: [
 ]
 
 # Theme
-remote_theme: thiagorossener/jekflix-template
 version: v3.1.1
