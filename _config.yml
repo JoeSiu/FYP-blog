@@ -84,6 +84,7 @@ paginate_content:
 
 # SASS
 sass:
+  sass_dir: _sass
   style: compressed
 
 # Plugins
