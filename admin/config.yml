@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
+  repo: joesiu/joesiu.github.io
   branch: master
+  site_domain: fyp-blog.netlify.app
 publish_mode: editorial_workflow
 media_folder: "assets/img/uploads"
 collections:
