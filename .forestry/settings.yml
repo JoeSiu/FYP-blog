@@ -17,6 +17,11 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
+- type: directory
+  path: ''
+  label: Configs
+  create: documents
+  match: _config.yml
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''
