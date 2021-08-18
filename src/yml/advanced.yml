@@ -1,5 +1,5 @@
-baseurl: "/FYP-blog" # the subpath of your site, e.g. /blog
-url: "joesiu.github.io" # the base hostname & protocol for your site
+# baseurl: "/FYP-blog" # the subpath of your site, e.g. /blog
+# url: "joesiu.github.io" # the base hostname & protocol for your site
 google_analytics: ""
 language: "en"
 categories_folder: category
