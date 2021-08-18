@@ -1,15 +1,15 @@
 # Site Settings
-#=include site.yml
+# =include site.yml
 
 # Social Media Settings
 # Remove the item if you don't need it
-#=include social.yml
+# =include social.yml
 
 # Posts Settings
-#=include posts.yml
+# =include posts.yml
 
 # Advanced Settings
-#=include advanced.yml
+# =include advanced.yml
 
 # Build settings
 markdown: kramdown

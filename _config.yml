@@ -1,5 +1,5 @@
 # Site Settings
-formspree_form_id: formspree_form_id
+# formspree_form_id: formspree_form_id
 name: Joe Siu
 title: FYP dev-blog
 description: dev-blog for my final year project
@@ -8,40 +8,38 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Posts
+    url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
 email: joesiu.contact@gmail.com
-disqus_username: disqus_username
+disqus_username: ""
 
 
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: https://github.com/JoeSiu
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-linkedin_username: ""
-medium_username: ""
+# facebook_username: ""
+# twitter_username: ""
+# instagram_username: ""
+# linkedin_username: ""
+# medium_username: ""
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
-two_columns_layout: true
+show_modal_on_finish_post: false
+two_columns_layout: false
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+baseurl: "/FYP-blog" # the subpath of your site, e.g. /blog
+url: "joesiu.github.io" # the base hostname & protocol for your site
+google_analytics: ""
 language: "en"
 categories_folder: category
-sent_message_url: "/contact/message-sent/"
+# sent_message_url: "/contact/message-sent/"
 
 
 # Build settings

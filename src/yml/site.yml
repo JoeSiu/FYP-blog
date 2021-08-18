@@ -1,4 +1,4 @@
-formspree_form_id: formspree_form_id
+# formspree_form_id: formspree_form_id
 name: Joe Siu
 title: FYP dev-blog
 description: dev-blog for my final year project
@@ -7,11 +7,9 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Posts
+    url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
 email: joesiu.contact@gmail.com
-disqus_username: disqus_username
+disqus_username: ""
