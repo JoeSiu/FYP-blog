@@ -1,8 +1,10 @@
 ---
 layout: page
+menu: false
+date: 2021-08-19 23:18:50
 title: About
-description: Some description.
 permalink: /about/
+description: ""
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Joe Siu" width="200">
