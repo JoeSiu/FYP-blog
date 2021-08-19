@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: joesiu.github.io/FYP-blog
   branch: master
   site_domain: fyp-blog.netlify.app
