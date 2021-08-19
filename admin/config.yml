@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: joesiu.github.io/FYP-blog
+  repo: joesiu/FYP-blog
   branch: master
   site_domain: fyp-blog.netlify.app
   base-url: https://api.netlify.com
