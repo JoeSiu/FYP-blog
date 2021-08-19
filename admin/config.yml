@@ -1,8 +1,10 @@
 backend:
-  name: git-gateway
+  name: github
   repo: joesiu.github.io/FYP-blog
   branch: master
   site_domain: fyp-blog.netlify.app
+  base-url: https://api.netlify.com
+  auth_endpoint: auth
 publish_mode: editorial_workflow
 media_folder: "assets/img/uploads"
 collections:
