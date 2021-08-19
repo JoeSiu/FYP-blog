@@ -1,6 +1,5 @@
 backend:
   name: github
-  repo: https://github.com/JoeSiu/FYP-blog
   branch: master
   site_domain: fyp-blog.netlify.app
 publish_mode: editorial_workflow
