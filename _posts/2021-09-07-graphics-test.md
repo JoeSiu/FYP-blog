@@ -4,7 +4,7 @@ layout: post
 title: Graphics Test
 description: Small graphics test
 image: /assets/img/uploads/screenshot-2021-09-07-213716.jpg
-category: "{{slug}}"
+category: blog
 author: Joe Siu
 paginate: false
 ---
