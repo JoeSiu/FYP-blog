@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Test
-slug: "{{slug}}"
+slug: test
 ---
