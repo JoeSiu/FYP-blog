@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Blog
-slug: "{{slug}}"
+slug: Blog
 description: Blog post
 ---
