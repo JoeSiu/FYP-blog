@@ -2,8 +2,6 @@ backend:
   name: github
   repo: joesiu/FYP-blog
   branch: master
-  site_domain: fyp-blog.netlify.app
-  base-url: https://api.netlify.com
   logo_url: https://joesiu.github.io/FYP-blog/assets/img/icons/favicon.ico
 publish_mode: editorial_workflow
 media_folder: "assets/img/uploads"
