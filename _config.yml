@@ -10,8 +10,8 @@ menu:
     url: /
   - title: Posts
     url: /
-  - title: About
-    url: /about
+  # - title: About
+  #   url: /about
 email: joesiu.contact@gmail.com
 disqus_username: "Joe_Siu"
 
