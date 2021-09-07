@@ -1,8 +1,8 @@
 # Site Settings
 # formspree_form_id: formspree_form_id
 name: Joe Siu
-title: FYP dev-blog
-description: dev-blog for my final year project
+title: FYP Blog
+description: blog for my final year project
 tags: []
 show_hero: true
 menu:
