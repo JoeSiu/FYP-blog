@@ -2,9 +2,9 @@ backend:
   name: github
   repo: joesiu/FYP-blog
   branch: master
-  base-url: /FYP-blog
 publish_mode: editorial_workflow
 media_folder: "assets/img/uploads"
+public_folder: "FYP-blog/assets/img/uploads"
 collections:
   - label: "Categories"
     name: "categories"
