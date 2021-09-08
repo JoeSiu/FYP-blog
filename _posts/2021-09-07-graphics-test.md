@@ -1,7 +1,7 @@
 ---
 date: 2021-08-30 23:02:39
 layout: post
-title: Graphics Test
+title: Graphics Test v1
 description: Small graphics test
 image: /assets/img/uploads/screenshot-2021-09-07-213716.jpg
 category: blog
@@ -16,4 +16,4 @@ I would like to try out some latest features from HDRP, therefore I have made a 
 
 Here is the demo:
 
-<https://drive.google.com/file/d/169HO4hpEmd8xwsgO7hXxI9NBmYRqFLav/view?usp=sharing>
+<iframe width="500" height="500" src="https://www.youtube.com/embed/zov3OfUdc-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
