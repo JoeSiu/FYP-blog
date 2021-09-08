@@ -10,9 +10,9 @@ paginate: false
 ---
 I would like to try out some latest features from HDRP, therefore I have made a small scene to test out the graphics. I had modeled a temporatory train station environment in Blender, then imported it into Unity and added some PBR materials.
 
-![](/assets/img/uploads/screenshot-2021-09-07-214611.jpg)
+![](/FYP-blog/assets/img/uploads/screenshot-2021-09-07-214611.jpg)
 
-![](/assets/img/uploads/screenshot-2021-09-07-214247.jpg)
+![](/FYP-blog/assets/img/uploads/screenshot-2021-09-07-214247.jpg)
 
 Here is the demo:
 
