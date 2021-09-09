@@ -22,7 +22,7 @@
                 <p class="post-subtitle">{{ page.subtitle }}</p>
 
                 {% if page.image and paginator.activated == nil %}
-                    <img src="{{ page.image | prepend: '/' | prepend: site.url  }}" alt="Featured image" class="post-cover">
+                    <img src="{{ page.image | remove: 'FYP-blog/' | relative_url }}" alt="Featured image" class="post-cover">
                 {% endif %}
 
                 {% include pagination-post.html progressBar=true %}
