@@ -1,5 +1,5 @@
 ---
-date: 2021-07-16 12:06:43
+date: 2021-07-10 14:34:35
 layout: post
 title: Production phases planning
 description: Phases planning for time and task management
