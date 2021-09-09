@@ -39,12 +39,12 @@ layout: main
                     <a class="cover" href="{{ post.url | prepend: site.baseurl }}">
                         {% include loader.html %}
                         {% if post.optimized_image %}
-                            <img src="{{site.baseurl}}/assets/img/placeholder.png" width="100%" data-url="{{ post.optimized_image | relative_url }}" class="preload">
+                            <img src="{{site.baseurl}}/assets/img/placeholder.png" width="100%" data-url="{{ post.optimized_image | prepend: '/' | prepend: site.url }}" class="preload">
                             <noscript>
                                 <img src="{{ post.optimized_image }}" width="100%">
                             </noscript>
                         {% elsif post.image %}
-                            <img src="{{site.baseurl}}/assets/img/placeholder.png" width="100%" data-url="{{ post.image | relative_url }}" class="preload">
+                            <img src="{{site.baseurl}}/assets/img/placeholder.png" width="100%" data-url="{{ post.image | prepend: '/' | prepend: site.url }}" class="preload">
                             <noscript>
                                 <img src="{{ post.image }}" width="100%">
                             </noscript>

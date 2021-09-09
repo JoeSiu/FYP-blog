@@ -3,7 +3,7 @@ date: 2021-08-30 23:02:39
 layout: post
 title: Graphics Test v1
 description: Small graphics test
-image: /assets/img/uploads/screenshot-2021-09-07-213716.jpg
+image: FYP-blog/assets/img/uploads/screenshot-2021-09-07-213716.jpg
 category: blog
 author: Joe Siu
 paginate: false
