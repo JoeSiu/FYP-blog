@@ -7,7 +7,7 @@ description: Phases planning for time and task management
 image: FYP-blog/assets/img/uploads/screenshot-2021-09-09-143332.jpg
 category: blog
 tags:
-  - 2021 Summer
+  - Summer
 author: Joe Siu
 paginate: false
 ---
