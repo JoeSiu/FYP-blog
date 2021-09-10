@@ -11,13 +11,13 @@ tags:
 author: Joe Siu
 paginate: true
 ---
-### References:
+## References:
 
-#### Finite State Machine
+### Finite State Machine
 
 <https://learn.unity.com/tutorial/pluggable-ai-with-scriptable-objects>
 
-#### Fuzzy Logic
+### Fuzzy Logic
 
 <https://www.gamedeveloper.com/disciplines/how-spreadsheets-power-civilian-ai-in-watch-dogs-2>
 
