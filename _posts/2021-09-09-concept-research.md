@@ -7,7 +7,7 @@ description: Concept research for the game
 image: https://img.youtube.com/vi/_rkopP_9qis/maxresdefault.jpg
 category: blog
 tags:
-  - Summer
+  - 2021 Summer
 author: Joe Siu
 paginate: false
 ---
