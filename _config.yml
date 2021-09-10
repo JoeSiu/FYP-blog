@@ -9,7 +9,9 @@ menu:
   - title: Home
     url: /
   - title: Posts
-    url: /
+    url: /category/blog
+  - title: Tags
+    url: /tags
   # - title: About
   #   url: /about
 email: joesiu.contact@gmail.com
