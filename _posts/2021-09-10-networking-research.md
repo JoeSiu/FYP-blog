@@ -1,5 +1,5 @@
 ---
-date: 2021-09-10 13:54:59
+date: 2021-08-07 13:54:59
 layout: post
 title: Networking research
 description: Networking research for feedback system
