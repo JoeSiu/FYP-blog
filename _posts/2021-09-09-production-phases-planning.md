@@ -2,6 +2,7 @@
 date: 2021-07-10 14:34:35
 layout: post
 title: Production phases planning
+subtitle: Phases planning for time and task management
 description: Phases planning for time and task management
 image: FYP-blog/assets/img/uploads/screenshot-2021-09-09-143332.jpg
 category: blog
