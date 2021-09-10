@@ -5,6 +5,8 @@ title: Game Architecture Research
 subtitle: Research for the game architecture
 description: Research for the game architecture
 category: blog
+tags:
+  - Summer
 author: Joe Siu
 paginate: true
 ---
