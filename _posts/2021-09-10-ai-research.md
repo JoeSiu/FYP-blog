@@ -6,6 +6,8 @@ subtitle: Research for in-game NPC's AI logic
 description: Research for in-game NPC's AI logic
 image: https://www.aiandgames.com/wp-content/uploads/2020/11/Watch-Dogs-2-6.png
 category: blog
+tags:
+  - Summer
 author: Joe Siu
 paginate: true
 ---

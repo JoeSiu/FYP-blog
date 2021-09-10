@@ -6,6 +6,8 @@ subtitle: Small graphics test
 description: Small graphics test
 image: FYP-blog/assets/img/uploads/screenshot-2021-09-07-213716.jpg
 category: blog
+tags:
+  - Sem A
 author: Joe Siu
 paginate: false
 ---
