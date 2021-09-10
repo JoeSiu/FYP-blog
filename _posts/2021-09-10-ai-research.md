@@ -4,7 +4,7 @@ layout: post
 title: AI Research
 subtitle: Research for in-game NPC's AI logic
 description: Research for in-game NPC's AI logic
-image: ""
+image: https://www.aiandgames.com/wp-content/uploads/2020/11/Watch-Dogs-2-6.png
 category: blog
 author: Joe Siu
 paginate: true
