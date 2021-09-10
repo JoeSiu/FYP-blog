@@ -11,7 +11,7 @@ tags:
 author: Joe Siu
 paginate: true
 ---
-## References:
+## References
 
 ### Finite State Machine
 
