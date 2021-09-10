@@ -6,11 +6,11 @@ subtitle: Research for the game architecture
 description: Research for the game architecture
 category: blog
 tags:
-  - Summer
+  - 2021 Summer
 author: Joe Siu
 paginate: true
 ---
-### References
+## References
 
 <https://github.com/QianMo/Unity-Design-Pattern>
 
