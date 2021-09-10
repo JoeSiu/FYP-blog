@@ -2,6 +2,7 @@
 date: 2021-07-17 22:32:54
 layout: post
 title: Concept research
+subtitle: Concept research for the game
 description: Concept research for the game
 image: https://img.youtube.com/vi/_rkopP_9qis/maxresdefault.jpg
 category: blog
