@@ -7,17 +7,17 @@ description: Research for in-game NPC's AI logic
 image: https://www.aiandgames.com/wp-content/uploads/2020/11/Watch-Dogs-2-6.png
 category: blog
 tags:
-  - Summer
+  - 2021 Summer
 author: Joe Siu
 paginate: true
 ---
-### References:
+## References:
 
-#### Finite State Machine
+### Finite State Machine
 
 <https://learn.unity.com/tutorial/pluggable-ai-with-scriptable-objects>
 
-#### Fuzzy Logic
+### Fuzzy Logic
 
 <https://www.gamedeveloper.com/disciplines/how-spreadsheets-power-civilian-ai-in-watch-dogs-2>
 
