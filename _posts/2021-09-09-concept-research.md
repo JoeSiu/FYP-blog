@@ -7,7 +7,7 @@ description: Concept research for the game
 image: https://img.youtube.com/vi/_rkopP_9qis/maxresdefault.jpg
 category: blog
 author: Joe Siu
-paginate: true
+paginate: false
 ---
 The closest game I find is a game called "Living Dark". It is also a 3D side scrolling game with a cyberpunk theme, which also focuses on graphics, world exploration as well as NPC AI interactions. Unfortunaty, the game seems to be canceled.
 
