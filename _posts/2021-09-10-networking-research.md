@@ -11,7 +11,9 @@ tags:
 author: Joe Siu
 paginate: true
 ---
-## Reference
+## Google Firebase Cloud Storage
+
+While this seems a good solution, turns out desktop build support are still in beta and might not be stable.
 
 ### Writing data from Unity3D to Firebase
 
@@ -22,3 +24,9 @@ paginate: true
 ### Pulling data from Firebase to website
 
 <https://junyou.tw/firebase/>
+
+## Rest API
+
+<https://assetstore.unity.com/packages/tools/network/rest-client-for-unity-102501>
+
+<https://www.red-gate.com/simple-talk/development/dotnet-development/calling-restful-apis-unity3d/>
