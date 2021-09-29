@@ -13,7 +13,7 @@ paginate: true
 ---
 ## Google Firebase Cloud Storage
 
-While this seems a good solution, turns out desktop build support are still in beta and might not be stable.
+Cloud Storage for Firebase is built for app developers who need to store and serve user-generated content, such as photos or videos.
 
 ### Writing data from Unity3D to Firebase
 
@@ -25,7 +25,13 @@ While this seems a good solution, turns out desktop build support are still in b
 
 <https://junyou.tw/firebase/>
 
+- - -
+
+While Firebase seems a good solution, turns out desktop build support are still in beta and might not work in build. The alternative solution found is to use the REST API together with Firebase instead of using the Firebase's Offical Unity SDK.
+
 ## Rest API
+
+<https://medium.com/@rotolonico/firebase-database-in-unity-with-rest-api-42f2cf6a2bbf>
 
 <https://assetstore.unity.com/packages/tools/network/rest-client-for-unity-102501>
 
