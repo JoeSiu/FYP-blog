@@ -222,6 +222,11 @@ collections:
             valueType: "int"
             required: false
             hint: "Leave it blank if you don't want pagination"
+          - label: "Show category header"
+            name: "show_category"
+            widget: "boolean"
+            default: true
+            hint: "Whether to show the catergory text above the post in home page"
           - label: "Menu"
             name: "menu"
             widget: "list"

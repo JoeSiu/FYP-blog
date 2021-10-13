@@ -28,6 +28,9 @@ github_username: JoeSiu
 # medium_username: ""
 
 
+# Home Settings
+show_category: false
+
 # Posts Settings
 show_time_bar: false
 show_modal_on_exit: false

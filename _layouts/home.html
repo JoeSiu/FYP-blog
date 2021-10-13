@@ -30,23 +30,25 @@ layout: main
     <section id="grid" class="row flex-grid">
         {% for post in posts %}
             <article class="box-item">
+                {% if site.show_category %}
                 <span class="category">
                     <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
                         <span>{{ post.category }}</span>
                     </a>
                 </span>
+                {% endif %}
                 <div class="box-body">
                     <a class="cover" href="{{ post.url | prepend: site.baseurl }}">
                         {% include loader.html %}
                         {% if post.optimized_image %}
                             <img src="{{site.baseurl}}/assets/img/placeholder.png" width="100%" data-url="{{ post.optimized_image | remove: 'FYP-blog/' | relative_url }}" class="preload">
                             <noscript>
-                                <img src="{{ post.optimized_image }}" width="100%">
+                                <img src="{{ post.optimized_image }}" width="100%" height="175">
                             </noscript>
                         {% elsif post.image %}
                             <img src="{{site.baseurl}}/assets/img/placeholder.png" width="100%" data-url="{{ post.image | remove: 'FYP-blog/' | relative_url }}" class="preload">
                             <noscript>
-                                <img src="{{ post.image }}" width="100%">
+                                <img src="{{ post.image }}" width="100%" height="175">
                             </noscript>
                         {% else %}
                             <img src="{{ site.baseurl }}/assets/img/placeholder.png" width="100%" data-url="{{ site.baseurl }}/assets/img/off.jpg" class="preload">
