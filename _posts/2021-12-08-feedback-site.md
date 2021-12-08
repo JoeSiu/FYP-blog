@@ -12,14 +12,19 @@ When in game, press F8 will opens up the feedback form, where players can type t
 
 ![](FYP-blog/assets/img/uploads/feedback_success.png)
 
-
-
 However, if the feedback failed to send to the server (e.g. no internet), a red notification banner will show instead, telling players the error.
 
 ![](FYP-blog/assets/img/uploads/feedback_fail.png)
 
-
-
 All submitted feedbacks can then be viewed at <https://joesiu.github.io/FYP-feedback-site/>.
 
 ![](FYP-blog/assets/img/uploads/feedback_site.png)
+
+
+
+### Future plans
+
+* Better UI
+* Lazy loading for the feedback site (feedbacks will only load on scroll)
+* Allow users to search/sort/filter feedbacks on the feedback site
+* Image support (in-game screenshots)
