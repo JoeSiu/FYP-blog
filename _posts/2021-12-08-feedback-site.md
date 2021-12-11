@@ -5,6 +5,8 @@ title: Basic implementation of the feedback system
 description: Sending and viewing feedbacks
 image: FYP-blog/assets/img/uploads/feedback_site.png
 category: blog
+tags:
+  - Sem A
 author: Joe Siu
 paginate: true
 ---
