@@ -18,11 +18,9 @@ However, if the feedback failed to send to the server (e.g. no internet), a red 
 
 ![](/FYP-blog/assets/img/uploads/feedback_fail.png)
 
-All submitted feedbacks can then be viewed at <https://joesiu.github.io/FYP-feedback-site/>.
+All submitted feedbacks can then be viewed at [https://joesiu.github.io/FYP-feedback/](https://joesiu.github.io/FYP-feedback-site/).
 
 ![](/FYP-blog/assets/img/uploads/feedback_site.png)
-
-
 
 ### Future plans
 
