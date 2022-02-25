@@ -9,5 +9,10 @@ tags:
 author: Joe Siu
 paginate: true
 ---
-* Updated input system
-* Camera zooming
+### New features:
+
+* Starting to build the main district scene
+
+### Problem facing:
+
+* None
