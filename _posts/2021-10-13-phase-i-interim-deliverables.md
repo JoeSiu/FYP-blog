@@ -3,6 +3,7 @@ date: 2021-10-09 12:56:42
 layout: post
 title: Phase I Interim Deliverables
 description: Phase I Interim Deliverables
+image: FYP-blog/assets/img/uploads/phase.jpg
 category: blog
 tags:
   - Sem A
