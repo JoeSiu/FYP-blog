@@ -4,6 +4,7 @@ layout: post
 title: Game Architecture Research
 subtitle: Research for the game architecture
 description: Research for the game architecture
+image: https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_960_720.png
 category: blog
 tags:
   - Summer
