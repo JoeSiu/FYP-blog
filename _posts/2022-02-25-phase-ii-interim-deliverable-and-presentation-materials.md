@@ -7,4 +7,7 @@ category: blog
 author: Joe Siu
 paginate: true
 ---
-<https://drive.google.com/drive/folders/1Cc_utqAJo5wmR3B4YlQzuOXgWEo_bIjI?usp=sharing>
+Presentation powerpoints & game demo file: <https://drive.google.com/drive/folders/1Cc_utqAJo5wmR3B4YlQzuOXgWEo_bIjI?usp=sharing>
+
+Video demo:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bKSPSZFoxd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
