@@ -3,7 +3,7 @@ date: 2021-09-04 23:02:39
 layout: post
 title: "Weekly Update #01"
 subtitle: Small graphics test
-description: Small graphics test
+description: "Weekly Update #01"
 image: FYP-blog/assets/img/uploads/screenshot-2021-09-07-213716.jpg
 category: blog
 tags:
@@ -11,12 +11,16 @@ tags:
 author: Joe Siu
 paginate: false
 ---
-I would like to try out some latest features from HDRP, therefore I have made a small scene to test out the graphics. I had modeled a temporatory train station environment in Blender, then imported it into Unity and added some PBR materials.
+### New features:
+
+* I would like to try out some latest features from HDRP, therefore I have made a small scene to test out the graphics. I had modeled a temporatory train station environment in Blender, then imported it into Unity and added some PBR materials.
+
+<iframe width="500" height="500" src="https://www.youtube.com/embed/zov3OfUdc-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](/FYP-blog/assets/img/uploads/screenshot-2021-09-07-214611.jpg)
 
 ![](/FYP-blog/assets/img/uploads/screenshot-2021-09-07-214247.jpg)
 
-Here is the demo:
+### Problem facing:
 
-<iframe width="500" height="500" src="https://www.youtube.com/embed/zov3OfUdc-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* None
