@@ -7,6 +7,7 @@ image: FYP-blog/assets/img/uploads/phase.jpg
 category: blog
 tags:
   - Sem A
+  - Assignment
 author: Joe Siu
 paginate: true
 ---
