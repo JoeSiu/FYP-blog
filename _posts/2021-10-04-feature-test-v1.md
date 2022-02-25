@@ -2,7 +2,7 @@
 date: 2021-09-11 01:01:23
 layout: post
 title: "Weekly Update #02"
-description: Feature test
+description: "Weekly Update #02"
 image: https://img.youtube.com/vi/sXdjAfw8dqQ/maxresdefault.jpg
 category: blog
 tags:
@@ -10,9 +10,7 @@ tags:
 author: Joe Siu
 paginate: true
 ---
-<!--StartFragment-->
-
-Test features:
+### New features:
 
 * Input system based on events using scriptable objects
 * Basic FSM implementation
@@ -20,6 +18,8 @@ Test features:
 * Object spawning with probabilities
 * Camera zooming
 
-<!--EndFragment-->
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXdjAfw8dqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Problem facing:
+
+* Input system occasionally won't detect input
