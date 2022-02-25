@@ -3,7 +3,7 @@ date: 2021-10-01 23:13:30
 layout: post
 title: "Weekly Update #05"
 subtitle: ""
-description: Added loading screen
+description: " "
 category: blog
 tags:
   - Sem A
