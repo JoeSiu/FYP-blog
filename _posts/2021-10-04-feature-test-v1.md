@@ -1,7 +1,7 @@
 ---
 date: 2021-09-11 01:01:23
 layout: post
-title: Feature Test v1
+title: "Weekly Update #02"
 description: Feature test
 image: https://img.youtube.com/vi/sXdjAfw8dqQ/maxresdefault.jpg
 category: blog
