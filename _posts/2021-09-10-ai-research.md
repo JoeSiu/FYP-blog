@@ -4,7 +4,7 @@ layout: post
 title: AI Research
 subtitle: Research for in-game NPC's AI logic
 description: Research for in-game NPC's AI logic
-image: https://michiganvalue.org/wp-content/uploads/2021/08/depositphotos_10142532-stock-photo-mind-over-digit.jpg
+image: https://cdn.pixabay.com/photo/2017/05/10/19/29/robot-2301646_960_720.jpg
 category: blog
 tags:
   - Summer
