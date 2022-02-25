@@ -3,6 +3,7 @@ date: 2022-02-25 22:08:41
 layout: post
 title: Phase II Interim Deliverable and Presentation Materials
 description: Phase II Interim Deliverable and Presentation Materials
+image: FYP-blog/assets/img/uploads/phase.jpg
 category: blog
 author: Joe Siu
 paginate: true
