@@ -1,7 +1,7 @@
 ---
 date: 2021-09-04 23:02:39
 layout: post
-title: Graphics Test v1
+title: "Weekly Update #01"
 subtitle: Small graphics test
 description: Small graphics test
 image: FYP-blog/assets/img/uploads/screenshot-2021-09-07-213716.jpg
