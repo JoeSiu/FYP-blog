@@ -2,8 +2,8 @@
 date: 2021-09-04 23:02:39
 layout: post
 title: "Weekly Update #01"
-subtitle: "Weekly Update #01"
-description: Small graphics test
+subtitle: Small graphics test
+description: "Weekly Update #01"
 image: FYP-blog/assets/img/uploads/screenshot-2021-09-07-213716.jpg
 category: blog
 tags:
