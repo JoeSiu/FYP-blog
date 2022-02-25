@@ -9,7 +9,7 @@ tags:
 author: Joe Siu
 paginate: true
 ---
-* Udpated object spawner
+* Updated object spawner
 * Added basic FSM for enemy
 * Prototyping UI design
 * Added IK controller for character
