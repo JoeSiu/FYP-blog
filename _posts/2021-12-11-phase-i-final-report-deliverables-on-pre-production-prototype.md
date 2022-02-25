@@ -3,6 +3,7 @@ date: 2021-12-11 01:02:13
 layout: post
 title: Phase I Final Report & Deliverables on Pre-Production & Prototype
 description: Phase I Final Report & Deliverables on Pre-Production & Prototype
+image: FYP-blog/assets/img/uploads/phase.jpg
 category: blog
 tags:
   - Sem A
