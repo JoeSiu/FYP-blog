@@ -5,6 +5,9 @@ title: Phase II Interim Deliverable and Presentation Materials
 description: Phase II Interim Deliverable and Presentation Materials
 image: FYP-blog/assets/img/uploads/phase.jpg
 category: blog
+tags:
+  - Sem A
+  - Assignment
 author: Joe Siu
 paginate: true
 ---
