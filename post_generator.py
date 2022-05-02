@@ -48,7 +48,9 @@ def generate_post(path, date, index):
         "author: Joe Siu",
         "paginate: true",
         "---",
-        "To be update..."
+        "### Changelog",
+        "",
+        "* To be update..."
     ]
 
     f.writelines(s + '\n' for s in lines)
@@ -60,11 +62,11 @@ def main():
     filePath = os.path.join(basePath, "_posts/temp")
     check_for_dir(filePath)
     # Sem A
-    startingIndex = 1
-    fridays = get_all_days("2021-09-01", "2021-12-31", "Saturday")
+    # startingIndex = 1
+    # fridays = get_all_days("2021-09-01", "2021-12-31", "Saturday")
     # Sem B
-    # startingIndex = 18
-    # fridays = get_all_days("2022-01-01", "2022-04-30", "Saturday")
+    startingIndex = 18
+    fridays = get_all_days("2022-01-01", "2022-04-30", "Saturday")
 
     for index in range(0, len(fridays)):
         generate_post(filePath, fridays[index], index + startingIndex)
