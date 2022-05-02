@@ -1,5 +1,5 @@
 ---
-date: 2022-03-05 20:49:11
+date: 2022-03-05 19:25:53
 layout: post
 title: "Weekly Update #27"
 subtitle: "Weekly Update #27"
@@ -11,4 +11,6 @@ tags:
 author: Joe Siu
 paginate: true
 ---
-To be update...
+### Changelog
+
+* To be update...

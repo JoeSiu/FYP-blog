@@ -11,6 +11,8 @@ tags:
 author: Joe Siu
 paginate: true
 ---
+### Changelog
+
 * Updated object spawner
 * Added basic FSM for enemy
 * Prototyping UI design

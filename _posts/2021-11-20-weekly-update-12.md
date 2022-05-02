@@ -12,6 +12,12 @@ tags:
 author: Joe Siu
 paginate: true
 ---
+### Changelog
+
+* Added basic feedback system
+
+#### Feedback system
+
 When in game, press F8 will opens up the feedback form, where players can type the comment and select the type and rating. Upon pressing the submit button, the feedback will then be send to the Firebase server. A green notification will also shows up to tell player the feedback had been sent.
 
 ![](/FYP-blog/assets/img/uploads/feedback_success.png)
@@ -26,7 +32,7 @@ All submitted feedbacks can then be viewed at [https://joesiu.github.io/FYP-feed
 
 ### Future plans
 
-* Better UI
+* Better CSS
 * Lazy loading for the feedback site (feedbacks will only load on scroll)
 * Allow users to search/sort/filter feedbacks on the feedback site
 * Image support (in-game screenshots)
