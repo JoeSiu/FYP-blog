@@ -1,12 +1,13 @@
 ---
-date: 2022-02-05 16:10:48
+date: 2022-02-05 17:02:09
 layout: post
 title: "Weekly Update #23"
 subtitle: "Weekly Update #23"
 description: "Weekly Update #23"
 category: blog
 tags:
-   - Sem A
+   - Sem B
+   - Weekly Update
 author: Joe Siu
 paginate: true
 ---

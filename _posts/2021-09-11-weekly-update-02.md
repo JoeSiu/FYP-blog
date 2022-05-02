@@ -8,6 +8,7 @@ image: https://img.youtube.com/vi/sXdjAfw8dqQ/maxresdefault.jpg
 category: blog
 tags:
   - Sem A
+  - Weekly Update
 author: Joe Siu
 paginate: true
 ---

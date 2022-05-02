@@ -8,6 +8,7 @@ image: FYP-blog/assets/img/uploads/screenshot-2021-09-07-213716.jpg
 category: blog
 tags:
   - Sem A
+  - Weekly Update
 author: Joe Siu
 paginate: false
 ---

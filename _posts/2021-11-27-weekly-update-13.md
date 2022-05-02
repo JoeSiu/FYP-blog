@@ -7,6 +7,7 @@ description: "Weekly Update #13"
 category: blog
 tags:
    - Sem A
+   - Weekly Update
 author: Joe Siu
 paginate: true
 ---

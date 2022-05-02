@@ -1,12 +1,13 @@
 ---
-date: 2022-04-30 11:17:56
+date: 2022-04-30 12:31:58
 layout: post
 title: "Weekly Update #35"
 subtitle: "Weekly Update #35"
 description: "Weekly Update #35"
 category: blog
 tags:
-   - Sem A
+   - Sem B
+   - Weekly Update
 author: Joe Siu
 paginate: true
 ---

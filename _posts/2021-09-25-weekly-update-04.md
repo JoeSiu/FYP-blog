@@ -7,6 +7,7 @@ description: Added basic FSM AI
 category: blog
 tags:
   - Sem A
+  - Weekly Update
 author: Joe Siu
 paginate: true
 ---
