@@ -43,7 +43,8 @@ def generate_post(path, date, index):
         f'description: "Weekly Update #{index}"',
         "category: blog",
         "tags:",
-        "   - Sem A",
+        "   - Sem B",
+        "   - Weekly Update",
         "author: Joe Siu",
         "paginate: true",
         "---",
@@ -55,11 +56,15 @@ def generate_post(path, date, index):
 
 
 def main():
-    startingIndex = 18
     basePath = os.path.dirname(__file__)
-    filePath = os.path.join(basePath, "test")
+    filePath = os.path.join(basePath, "_posts/temp")
     check_for_dir(filePath)
-    fridays = get_all_days("2022-01-01", "2022-04-30", "Saturday")
+    # Sem A
+    startingIndex = 1
+    fridays = get_all_days("2021-09-01", "2021-12-31", "Saturday")
+    # Sem B
+    # startingIndex = 18
+    # fridays = get_all_days("2022-01-01", "2022-04-30", "Saturday")
 
     for index in range(0, len(fridays)):
         generate_post(filePath, fridays[index], index + startingIndex)
