@@ -1,7 +1,8 @@
 ---
-date: 2021-09-24 23:10:03
+date: 2021-09-25 23:10:03
 layout: post
 title: "Weekly Update #04"
+subtitle: Added basic FSM AI
 description: Added basic FSM AI
 category: blog
 tags:

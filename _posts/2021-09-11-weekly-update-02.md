@@ -2,6 +2,7 @@
 date: 2021-09-11 01:01:23
 layout: post
 title: "Weekly Update #02"
+subtitle: "Weekly Update #02"
 description: "Weekly Update #02"
 image: https://img.youtube.com/vi/sXdjAfw8dqQ/maxresdefault.jpg
 category: blog

@@ -1,7 +1,8 @@
 ---
-date: 2021-10-08 23:21:33
+date: 2021-10-09 23:21:33
 layout: post
 title: "Weekly Update #06"
+subtitle: "Weekly Update #06"
 description: "Weekly Update #06"
 category: blog
 tags:
