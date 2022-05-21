@@ -3,6 +3,7 @@ date: 2022-05-21 02:07:30
 layout: post
 title: "PII-5.3: Complete Collection of FYP Outcomes"
 description: Complete Collection of FYP Outcomes
+image: FYP-blog/assets/img/uploads/phase.jpg
 category: blog
 tags:
   - Sem B
